@@ -6,7 +6,7 @@ public class newcommit : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		Debug.Log("marge-practise-1");
 	}
 	
 	// Update is called once per frame
